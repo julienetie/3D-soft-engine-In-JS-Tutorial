@@ -4,5 +4,4 @@
 
 **A Refreshment on Matrices:**
 
-Matrices are similar to 2D Arrays(). This is a 3x4 matrix. 
-![enter image description here](https://raw.githubusercontent.com/julienetie/Study_3D-Matrices/master/equations/three_by_four.gif)
+Matrices are similar to 2D Arrays(). This is a 3x4 matrix.
